@@ -25,7 +25,7 @@ I'm self-taught with coursework from:
 ---
 
 ### 🌐 Outside the Terminal
-- 🎥 Actor with network TV and film credits ([IMDb](https://www.imdb.com/name/nm6897167/))
+- 🎥 Actor with network TV and film credits ([IMDb](https://www.imdb.com/name/nm7121880/))
 - 🎮 Indie game dev experiments on the side
 - 🧵 Writing & world-building through poetic fragments and mythic code
 
