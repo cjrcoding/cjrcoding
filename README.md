@@ -1,16 +1,15 @@
-# 👋 Hi, I'm Carlos Javier Rivera
+# 👋 Hi, I'm Carlos
 
-Creative builder bridging **blockchain** and **storytelling** — one smart contract, one scene, one idea at a time.
+Creative technologist blending art, code, and community.
 
-🎭 From the worlds of **film and television** to the decentralized edges of Web3, I’ve always believed in the power of systems and symbols to move people. Today, I'm focused on building apps, tools, and experiences on the **Cardano blockchain**, using languages like **Haskell**, **Aiken**, and **Rust**.
+🎭 I come from the world of storytelling — with a background in film, TV, and stage — and I bring that same intention and rhythm to my work in code. Today, I'm focused on building apps, tools, and experiences on the **Cardano blockchain**, using languages like **Haskell**, **Aiken**, and **Rust**.
 
 ---
 
 ### 🧱 Currently Building:
-- 🃏 **NFT Swap Protocol** – exploring secure collectible-for-collectible trading with themed achievements  
-- 🛠 Working with **Lucid**, **Aiken**, and **CIP standards** to understand full dApp pipelines  
-- 🎨 **Color Changer App** – a validator-based concept where on-chain interactions evolve the front-end  
-- ⏱ **Pomodoro Timer** – functional time-tracking tool built in Haskell  
+- RVRS, a poetic smart contract language built to compile to Aiken 
+- Rugswap.io, exploring secure collectible-for-collectible trading with themed achievements    
+- Smart Contract Environment, a modular, developer-focused playground for building, testing, and evolving smart contracts on Cardano. 
 
 ---
 
@@ -26,7 +25,6 @@ I'm self-taught with coursework from:
 
 ### 🌐 Outside the Terminal
 - 🎥 Actor with network TV and film credits ([IMDb](https://www.imdb.com/name/nm7121880/))
-- 🎮 Indie game dev experiments on the side
 - 🧵 Writing & world-building through poetic fragments and mythic code
 
 ---
