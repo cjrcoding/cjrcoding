@@ -15,8 +15,9 @@ Creative technologist blending art, code, and community.
 
 ### 📚 Learning Path
 I'm self-taught with coursework from:
-- 🎓 Harvard’s CS50: Intro to Computer Science  
-- 🛠 FreeCodeCamp certifications in:
+-  Harvard’s CS50: Intro to Computer Science
+-  Coursera’s Smart Contracts Certificate
+-  FreeCodeCamp certifications in:
   - Responsive Web Design  
   - JavaScript Algorithms & Data Structures  
   - Front-End Development Libraries  
@@ -25,7 +26,6 @@ I'm self-taught with coursework from:
 
 ### 🌐 Outside the Terminal
 - 🎥 Actor with network TV and film credits ([IMDb](https://www.imdb.com/name/nm7121880/))
-- 🧵 Writing & world-building through poetic fragments and mythic code
 
 ---
 
@@ -34,7 +34,5 @@ I’m looking to:
 - Join a **Cardano team** or **open-source project**
 - Help **onboard creatives** into Web3
 - Keep learning, building, and sharing
-
-> “Technology is the new mythology — and I plan to write my chapter in it.”
 
 📬 DM me or fork a repo. I’d love to build with you.
