@@ -18,9 +18,9 @@ I'm self-taught with coursework from:
 -  Harvard’s CS50: Intro to Computer Science
 -  Coursera’s Smart Contracts Certificate
 -  FreeCodeCamp certifications in:
-  - Responsive Web Design  
-  - JavaScript Algorithms & Data Structures  
-  - Front-End Development Libraries  
+    - Responsive Web Design  
+    - JavaScript Algorithms & Data Structures  
+    - Front-End Development Libraries  
 
 ---
 
