@@ -12,16 +12,23 @@ Creative technologist blending art, code, and community.
 - Smart Contract Environment, a modular, developer-focused playground for building, testing, and evolving smart contracts on Cardano. 
 
 ---
+📚 Learning Path
+I'm self-taught, with coursework from:
 
-### 📚 Learning Path
-I'm self-taught with coursework from:
--  Harvard’s CS50: Intro to Computer Science
--  Coursera’s Smart Contracts Certificate
--  FreeCodeCamp certifications in:
-    - Responsive Web Design  
-    - JavaScript Algorithms & Data Structures  
-    - Front-End Development Libraries  
+- Harvard’s CS50: Introduction to Computer Science
 
+- IOHK’s Haskell Bootcamp
+
+- Coursera: Smart Contracts Certificate
+
+- freeCodeCamp certifications in:
+
+   - Responsive Web Design
+
+   - JavaScript Algorithms & Data Structures
+
+   - Front-End Development Libraries
+     
 ---
 
 ### 🌐 Outside the Terminal
