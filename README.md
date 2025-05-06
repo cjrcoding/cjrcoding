@@ -2,7 +2,7 @@
 
 Creative technologist blending art, code, and community.
 
-🎭 I come from the world of storytelling. With a background in film, TV, and stage, and I bring that same intention and rhythm to my work in code. Today, I'm focused on building on the **Cardano blockchain**, using languages like **Haskell**, **Aiken**, and **Rust**.
+With a background in film, TV, and stage, and I bring that same intention and rhythm to my work in code. Today, I'm focused on building on the **Cardano blockchain**, using languages like **Haskell**, **Aiken**, and **Rust**.
 
 ---
 
