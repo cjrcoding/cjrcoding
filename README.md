@@ -15,7 +15,8 @@ With a background in film, TV, and stage, and I bring that same intention and rh
 - **Rugswap.io** – *Prototype phase*: a conceptual collectible-for-collectible NFT swap platform, focused on security, community, and themed achievement rewards  
 
 ---
-📚 Learning Path
+## 📚 Learning Path
+
 I'm self-taught, with coursework from:
 
 - Harvard’s CS50: Introduction to Computer Science
