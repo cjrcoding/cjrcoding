@@ -19,11 +19,11 @@ With a background in film, TV, and stage, and I bring that same intention and rh
 
 I'm self-taught, with coursework from:
 
-- Harvard’s CS50: Introduction to Computer Science
-
 - IOHK’s Haskell Bootcamp
 
 - Coursera: Smart Contracts Certificate
+
+- Harvard’s CS50: Introduction to Computer Science
 
 - freeCodeCamp certifications in:
 
