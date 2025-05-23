@@ -10,7 +10,7 @@ With a background in film, TV, and stage, and I bring that same intention and rh
 
 - **RVRS** – *In active development*: a poetic smart contract language designed to compile to Aiken and support expressive, symbolic contract logic  
 
-- **Smart Contract Lab** – *Development phase*: a modular playground for building, testing, and evolving smart contracts on Cardano  
+- **Smart Contract Lab** – *Pre-production phase*: a modular playground for building, testing, and evolving smart contracts on Cardano  
 
 - **Rugswap.io** – *Prototype phase*: a conceptual collectible-for-collectible NFT swap platform, focused on security, community, and themed achievement rewards  
 
